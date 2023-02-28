@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/logback-classic-1.3.0-alpha12.jar"/>
+	<classpathentry kind="lib" path="lib/logback-core-1.3.0-alpha12.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-2.0.0-alpha5.jar"/>
+	<classpathentry kind="lib" path="lib/xvarmapi_20181220.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
